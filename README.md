@@ -1,1 +1,4 @@
 # medical-data-extraction
+This project is designed to automate the extraction, validation, and storage of patient details from medical documents. It leverages various Python libraries to handle PDF processing, image conversion, text extraction, and database operations. The following sections provide a detailed theoretical overview of the project's components and functionality.
+
+In the healthcare industry, managing patient data efficiently and accurately is crucial. Medical documents often contain valuable information that needs to be extracted and processed for various purposes, such as diagnosis, treatment planning, and record-keeping. Manual extraction of this data is time-consuming and prone to errors. This project aims to automate this process using image processing and optical character recognition (OCR) techniques.

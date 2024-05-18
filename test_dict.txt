@@ -1,0 +1,18 @@
+Package: Package A
+- TSH: ₹300
+- Test A2: ₹75
+- Test A3: ₹100
+Total Cost for Package A: ₹475
+
+Package: Package B
+- HbA1c: ₹299
+- Dexa Scan: ₹2800
+Total Cost for Package B: ₹3099
+
+Package: Package C
+- Test C1: ₹70
+- Test C2: ₹90
+- Test C3: ₹110
+- Test C4: ₹120
+Total Cost for Package C: ₹390
+
